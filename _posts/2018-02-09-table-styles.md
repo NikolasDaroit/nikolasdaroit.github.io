@@ -1,9 +1,9 @@
 ---
+title: 'Table styles'
 layout: post
-title: Table styles
-date:   2018-02-09 11:07
-description: Examples of different table styles
-comments: true
+tags: []
+published: false
+category: 
 ---
 
 Below are the examples of the default table styling.
