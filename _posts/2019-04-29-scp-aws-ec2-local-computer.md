@@ -2,8 +2,8 @@
 title: 'SCP between EC2 instance and local computer'
 layout: post
 tags:
-  - '[aws'
-  - ' ec2]'
+  - aws
+  - ' ec2'
 category: 
 ---
 ## SCP between Amazon EC2 instance and local computer
