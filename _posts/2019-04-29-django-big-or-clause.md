@@ -2,8 +2,8 @@
 title: 'Django query for big OR clause'
 layout: post
 tags:
-  - '[django'
-  - '  python]'
+  - django
+  - '  python'
 category: 
 ---
 ## Django Query for big OR clause
