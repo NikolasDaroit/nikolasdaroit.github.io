@@ -1,12 +1,11 @@
 ---
+title: Customizations
 layout: post
-title: "Customizations"
-date: 2016-09-20 16:25:06
-description: Few customizations available out of the box!
-share: true
 tags:
- - customizations
- - jekyll
+  - customizations
+  - jekyll
+published: false
+category: 
 ---
 
 # Accent color
