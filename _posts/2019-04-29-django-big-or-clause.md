@@ -1,11 +1,10 @@
 ---
 title: 'Django query for big OR clause'
 layout: post
-categories:
-  - '[Django'
-  - ' Python]'
 tags:
-  - Query
+  - '[django'
+  - '  python]'
+category: 
 ---
 ## Django Query for big OR clause
 
