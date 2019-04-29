@@ -6,7 +6,6 @@ categories:
   - ' Python]'
 tags:
   - Query
-published: false
 ---
 ## Django Query for big OR clause
 
