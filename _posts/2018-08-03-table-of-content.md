@@ -2,7 +2,6 @@
 title: 'Table of content'
 layout: post
 tags: []
-published: false
 category: 
 ---
 
