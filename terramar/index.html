@@ -8,6 +8,7 @@
     max-height: 100%;
     left: 25%;
   }
+ 
   body{
   text-align: center;
   background: url("terramar.jpg");
@@ -26,7 +27,7 @@ h1{
   margin: 40px 0px 20px;
 }
 
-#clockdiv{
+.clockdiv{
   font-family: sans-serif;
   color: #fff;
   display: inline-block;
@@ -35,14 +36,14 @@ h1{
   font-size: 30px;
 }
 
-#clockdiv > div{
+.clockdiv > div{
   padding: 10px;
   border-radius: 3px;
   background: #00BF96;
   display: inline-block;
 }
 
-#clockdiv div > span{
+.clockdiv div > span{
   padding: 15px;
   border-radius: 3px;
   background: #00816A;
@@ -99,8 +100,16 @@ window.onload = function() {
 };
 
 </script>
-<h1>Aventuras em Terramar</h1>
-<div id="clockdiv">
+<div  class="clockdiv">
+  <div>
+    <span class="text">Aventuras em Terramar</span>
+    <div class="smalltext"></div>
+  </div>
+</div>
+
+<br>
+
+<div id="clockdiv" class="clockdiv">
   <div>
     <span class="days"></span>
     <div class="smalltext">Days</div>
